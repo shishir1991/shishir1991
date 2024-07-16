@@ -22,16 +22,16 @@ I'm a seasoned Analyst and Experienced Project Management Specialist with over 7
 - [Nile's Customer Service Data Analysis](https://github.com/shishir1991/MS-Excel/tree/main/Nile-Customer%20Service%20Data%20Analysis)
 
 📊 Power BI
-- [AirBnB - Transformative Power BI Dashboards for Enhanced Business Insights](https://github.com/shishir1991/AirBnB-Analysis-of-Data-Using-Power-BI)
+- [AirBnB - Transformative Power BI Dashboards for Enhanced Business Insights](https://github.com/shishir1991/Power-BI/tree/main/AirBnB%20-%20Analysis%20of%20Airbnb%20Data)
 
 🗄️ SQL
-- [FDA - Products Data Analysis and Visualization](https://github.com/shishir1991/FDA-Data-Analysis-and-Visualization)
+- [FDA - Products Data Analysis and Visualization](https://github.com/shishir1991/SQL/tree/main/SQL%20FDA%20Project)
 
 🐍 Python
-- [Descriptive Statistics & Bank Personal Loan Modelling dataset Analysisn](https://github.com/shishir1991/Descriptive-Statistics-PythonPackage)
-- [Performing EDA on Bank_Telemarketing_Campaign Dataset](https://github.com/shishir1991/Bank_Telemarketing_Campaign-EDA)
-- [Real Estate Statistical Data Analysis effecting property price](https://github.com/shishir1991/Real_Estate_Price_Analysis-Statistics-for-Decision-Making)
-- [Airbnb listing prices prediction in Antwerp using ML models](https://github.com/shishir1991/AirBnb_Capstone_Project/tree/main)
+- [Descriptive Statistics & Bank Personal Loan Modelling dataset Analysisn](https://github.com/shishir1991/Python/tree/main/Descriptive%20Statistics%20%26%20Bank%20Personal%20Loan%20Modelling)
+- [Performing EDA on Bank_Telemarketing_Campaign Dataset](https://github.com/shishir1991/Python/tree/main/Bank%20Telemarketing%20Campaign-Exploratory%20Data%20Analysis%20(EDA))
+- [Real Estate Statistical Data Analysis effecting property price](https://github.com/shishir1991/Python/tree/main/Real%20Estate%20Price%20Analysis-Statistics%20for%20Decision%20Making)
+- [Airbnb listing prices prediction in Antwerp using ML models](https://github.com/shishir1991/AirBnb_Capstone_Project)
 
 ## 📜 Certifications
 - 📊 Accelerator Program in Business Analytics and Data Science- Hero Vired,	Sep'23 - Present
