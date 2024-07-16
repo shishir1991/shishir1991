@@ -19,7 +19,7 @@ I'm a seasoned Analyst and Experienced Project Management Specialist with over 7
 ### 🛠️ Projects
 
 📊 MS EXCEL
-- [Nile's Customer Service Data Analysis](https://github.com/shishir1991/Nile-Customer-Service-Data-Analysis)
+- [Nile's Customer Service Data Analysis]([https://github.com/shishir1991/Nile-Customer-Service-Data-Analysis](https://github.com/shishir1991/MS-Excel/tree/main/Nile-Customer%20Service%20Data%20Analysis))
 
 📊 Power BI
 - [AirBnB - Transformative Power BI Dashboards for Enhanced Business Insights](https://github.com/shishir1991/AirBnB-Analysis-of-Data-Using-Power-BI)
